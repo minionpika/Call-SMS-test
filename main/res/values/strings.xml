@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallSms</string>
+    <string name="enter1">Enter the text message you want to send : </string>
+    <string name="enter2">Enter the phone number to whom you want to send : </string>
+</resources>
